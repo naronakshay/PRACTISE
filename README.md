@@ -1,4 +1,5 @@
 # PRACTISE
-practised with eureka service registry, microservices ,hibernate , resttemplate 
+practised with eureka service registry, microservices ,hibernate ,
+communication between microservices using resttemplate 
 
 

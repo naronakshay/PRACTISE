@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: employee-service
+  config:
+    import: "optional:configserver:http://localhost:8088/"
+
+
+management :
+  tracing :
+    sampling :
+      probablity : 1.0
